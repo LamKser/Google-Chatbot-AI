@@ -1,6 +1,6 @@
-
-<img src="images/google_AI.png">
-
+<div align="center">
+    <img src="images/google_AI.png" width="70%" height="70%">
+</div>
 <div align="center">
 
 # Google Chatbot AI
