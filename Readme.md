@@ -1,11 +1,10 @@
 <div align="center">
+    <img src="images/google_AI.png" width="50%" height="50%">
+</div>
+<div align="center">
 
 # Google Chatbot AI
 
-</div>
-
-<div align="center">
-    <img src="images/google_AI.png" width="50%" height="50%">
 </div>
 
 # Usage
