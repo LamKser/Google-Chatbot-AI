@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="images/google_AI.png" width="50%" height="50%">
+    <img src="images/google_AI.png" width="50%">
 </div>
 <div align="center">
 
